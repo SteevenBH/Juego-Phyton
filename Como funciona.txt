@@ -1,0 +1,19 @@
+1. Descripción:
+
+      * La computadora genera un número aleatorio entre 1 y 100.
+      * El jugador tiene 10 intentos para adivinar el número.
+      * Después de cada intento, la computadora indica si el número adivinado es demasiado alto o bajo.
+      * Si el jugador adivina el número correcto, el juego termina y se muestra un mensaje de felicitación.
+      * Si se agotan los 10 intentos sin adivinar el número, se muestra el número correcto.
+
+2. Manejo de errores:
+
+      * El juego maneja los casos donde el usuario ingresa algo que no sea un número, pidiéndole que ingrese una adivinanza válida.
+
+
+Cómo ejecutarlo:
+
+    Copia y pega este código en un archivo llamado adivina_numero.py.
+    Ejecuta el archivo desde la terminal o el entorno de desarrollo que estés usando:
+
+python adivina_numero.py
